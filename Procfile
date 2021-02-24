@@ -1,1 +1,1 @@
-web3:node src/components/App.js
+web3:node src/index.js
