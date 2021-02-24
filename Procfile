@@ -1,1 +1,1 @@
-web3:node index.js
+web3:node App.js
