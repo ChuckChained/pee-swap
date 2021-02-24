@@ -1,1 +1,0 @@
-web3:node src/index.js
