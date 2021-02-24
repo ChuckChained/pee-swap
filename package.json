@@ -34,12 +34,13 @@
     "redux": "4.0.5",
     "redux-logger": "3.0.6",
     "reselect": "4.0.0",
+    "serve": "^11.3.2",
     "solidity-coverage": "0.7.10",
     "truffle": "5.1.45",
     "truffle-flattener": "1.5.0",
     "truffle-hdwallet-provider-privkey": "0.3.0",
-    "web3": "1.2.6",
-    "web-vitals": "^1.1.0"
+    "web-vitals": "^1.1.0",
+    "web3": "1.2.6"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -55,5 +56,16 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+
+  "scripts": {
+"dev": "react-scripts start",
+"start": "serve -s build",
+"build": "react-scripts build",
+"test": "react-scripts test --env=jsdom",
+"eject": "react-scripts eject",
+"heroku-postbuild": "npm run build"
 }
+
+}
+
