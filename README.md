@@ -1,3 +1,15 @@
+This repository contains Pee Token - an ERC20 token on the Ethereum Kovan testnet.
+The token contract address is: 
+
+It also contains PeeSwap - an exchange to trade test Ether to Pee Token.
+The exchange is hosted here: https://pee-swap.herokuapp.com/
+
+![Exchange on Kovan](peeswap/readme-assets/pee-swap-image.png?raw=true "Exchange Image")
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
