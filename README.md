@@ -1,10 +1,16 @@
 This repository contains Pee Token - an ERC20 token on the Ethereum Kovan testnet.
-The token contract address is: 
+The token contract address is: 0x4B055539eA006f95abEC2DC1Dd5A1E8aAf9cd33B
+
+https://kovan.etherscan.io/address/0x4b055539ea006f95abec2dc1dd5a1e8aaf9cd33b
 
 It also contains PeeSwap - an exchange to trade test Ether to Pee Token.
 The exchange is hosted here: https://pee-swap.herokuapp.com/
 
-![Exchange on Kovan](peeswap/readme-assets/pee-swap-image.png?raw=true "Exchange Image")
+The exchange contract address is: 0x0c9c018b17923B7f282089Ff091902Cb4a97EBcd
+
+https://kovan.etherscan.io/address/0x0c9c018b17923b7f282089ff091902cb4a97ebcd
+
+![Exchange on Kovan](/readme-assets/pee-swap-image.png?raw=true "Exchange Image")
 
 
 
